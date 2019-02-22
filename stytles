@@ -1,0 +1,32 @@
+#header{
+	
+	width: 1900px;
+	height: 130px;
+	background-color: greenyellow;
+	margin: 0 auto;
+	
+}
+#banner .account{
+	
+	width: 
+	
+}
+
+
+#banner{
+	
+	width: 1900px;
+	height: 690px;
+	background-color: gray;
+	margin: 0 auto;
+	
+}
+#footer{
+	
+	width: 1900px;
+		height: 130px;
+		background-color: greenyellow;
+		margin: 0 auto;
+	}
+}	
+	
