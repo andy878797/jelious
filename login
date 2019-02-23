@@ -23,8 +23,8 @@
 				    <input type="text" name="account">
 				    <br>
 				    密碼:<br>
-				    <input type="text" name="password">
-				    <input type="submit" name="登入">
+				    <input type="text" name="password"><br />
+				    <input type="submit" name="登入" value="登入">
 				
 			    </form>
         <!--信息-->
