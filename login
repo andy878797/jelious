@@ -32,6 +32,10 @@
         
         <!--底部-->
         <div id="footer"></div>
+	<footer>
+				<p>&copy; 2018-2019 JeliousBook. all right reserved.</p>
+			</footer>
+
 		
 		
 	</body>
